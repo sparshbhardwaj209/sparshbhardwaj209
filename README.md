@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sparsh Bhardwaj</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&random=false&width=521&lines=I+am+a+Software+Developer..;I+am+a+Full+Stack+Developer..)](https://git.io/typing-svg)
 <h3 align="center">Software Developer | Full Stack Developer | AWS Solutions Architect</h3>
 
 <img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
