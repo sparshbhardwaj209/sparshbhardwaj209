@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sparshbhardwaj209.github.io/MyPersonalPortfolio/](https://sparshbhardwaj209.github.io/MyPersonalPortfolio/)
 
-- 📝 I regularly write articles on [https://sparshbhardwaj001.blogspot.com/](https://sparshbhardwaj001.blogspot.com/)
+- 📝 I regularly write articles on [https://medium.com/@sparshbhardwaj/](https://medium.com/@sparshbhardwaj/)
 
 - 💬 Ask me about **React, Java, AWS**
 
